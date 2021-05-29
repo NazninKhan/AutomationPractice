@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T20:12:25 EDT" name="Default suite" finished-at="2021-05-28T20:12:28 EDT" duration-ms="2646">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T20:12:25 EDT" name="Default test" finished-at="2021-05-28T20:12:28 EDT" duration-ms="2646">
+      <class name="apiAutomation.reqres_Automation">
+        <test-method signature="base()[pri:0, instance:apiAutomation.reqres_Automation@ec756bd]" started-at="2021-05-28T20:12:25 EDT" name="base" finished-at="2021-05-28T20:12:27 EDT" duration-ms="2382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- base -->
+        <test-method signature="info()[pri:0, instance:apiAutomation.reqres_Automation@ec756bd]" started-at="2021-05-28T20:12:27 EDT" name="info" finished-at="2021-05-28T20:12:28 EDT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- info -->
+      </class> <!-- apiAutomation.reqres_Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

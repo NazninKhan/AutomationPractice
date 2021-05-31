@@ -26,6 +26,7 @@ public class MyTest extends AppInit{//extended with AppInit Class and imported i
 		System.out.println("Laboni is silent today");
 		System.out.println("This is a change from local repo ");
 		System.out.println("Adding a line from Github");
+		System.out.println("Demonstration Branch Strategy");
 
 	}
    

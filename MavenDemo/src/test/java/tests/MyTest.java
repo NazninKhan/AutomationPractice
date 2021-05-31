@@ -23,6 +23,7 @@ public class MyTest extends AppInit{//extended with AppInit Class and imported i
    @Test
 	public void createUser() {
 		userCreateObj.signInNewUser();//calling signInNewUser method from UserCreate class using userCreateObj
+		System.out.println("Laboni is silent today");
 	}
    
    @Test
